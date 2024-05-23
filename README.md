@@ -4,6 +4,8 @@
 ![Files](https://github.com/wifiovermybody/video-to-frames/blob/main/files.png)
 
 
+## Video to Frames
+
 A simple and efficient Python script to extract frames from a video file using `ffmpeg`. 
 I've made this so it simply creates a folder next to your video file. Super simple and easy, hopefully easier than opening something like Premiere or Resolve.
 
