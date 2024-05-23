@@ -1,3 +1,5 @@
+★·.·´¯`·.·★   khaos scrict collection-001  ★·.·`¯´·.·★
+
 
 A simple and efficient Python script to extract frames from a video file using `ffmpeg`.
 
