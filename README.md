@@ -1,7 +1,11 @@
-## Khaos Script Collection
+## @wifiovermybody Script Collection
+
+![Eye](https://github.com/wifiovermybody/video-to-frames/blob/main/eye.gif)
+![Files](https://github.com/wifiovermybody/video-to-frames/blob/main/files.png)
 
 
-A simple and efficient Python script to extract frames from a video file using `ffmpeg`.
+A simple and efficient Python script to extract frames from a video file using `ffmpeg`. 
+I've made this so it simply creates a folder next to your video file. Super simple and easy, hopefully easier than opening something like Premiere or Resolve.
 
 ## Prerequisites
 
@@ -29,9 +33,8 @@ python3 /path/to/extract_frames.py /path/to/your/video.mp4
 
 ```
 
-## Notes 
 
-I've made this so it simply creates a folder next to your video file. Super simple and easy, hopefully easier than opening something like Premiere or Resolve.
+
 
 ## Pro tips for OS X
 You can get the file path quickly and easily by right clicking on an file and holding the `option ⌥` key. Where `copy` is usuaully is displayed, will now display an option to `copy <filename> as pathname`
