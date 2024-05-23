@@ -33,8 +33,8 @@ python3 /path/to/extract_frames.py /path/to/your/video.mp4
 
 ```
 
-
-
+## Notes
+A metadata file is created next to the file to show the fps and duration of clip
 
 ## Pro tips for OS X
 You can get the file path quickly and easily by right clicking on an file and holding the `option ⌥` key. Where `copy` is usuaully is displayed, will now display an option to `copy <filename> as pathname`
