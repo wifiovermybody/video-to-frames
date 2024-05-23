@@ -18,7 +18,8 @@ Make the script executable (optional but recommended on Unix-like systems):
 chmod +x extract_frames.py
 
 ```
-Run the script: Open a terminal, type python3 (including the space), then drag your video file into the terminal to add its path automatically. Press Enter to run the script:
+To run the script:
+Open a terminal (eg. osx terminal), type python3 (including the space), drag your script in, then drag your video file into the terminal to add their paths in automatically. Press Enter to run the script. It should look something like below:
 
 ```bash
 
