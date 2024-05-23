@@ -26,3 +26,13 @@ Open a terminal (eg. osx terminal), type python3 (including the space), drag you
 python3 /path/to/extract_frames.py /path/to/your/video.mp4
 
 ```
+
+## Notes 
+
+I've made this so it simply creates a folder next to your video file. Super simple and easy, hopefully easier than opening something like Premiere or Resolve.
+
+## Pro tips for OS X
+You can get the file path quickly and easily by right clicking on an file and holding the `option ⌥` key. Where `copy` is usuaully is displayed, will now display an option to `copy <filename> as pathname`
+
+
+ 
